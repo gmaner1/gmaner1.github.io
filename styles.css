@@ -24,6 +24,9 @@ h1 {
     display: block;
     margin: auto;
 }
+.project a {
+    color: black;
+}
 a {
     text-decoration: none;
     text-align: center;
