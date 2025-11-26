@@ -14,6 +14,7 @@ h1 {
         padding: 20px 10px;
         background: powderblue;
         border-radius: 25%;
+        color: black;
 }
 .project img{
     width: 300px;
